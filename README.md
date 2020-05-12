@@ -45,32 +45,38 @@ TODO: Re-draw to calendar-style schema.
 
  #### Call for challenges
  **When:** Thursday evening
+ 
  **What:**  Each **builder receives** [Typeform](http://buildersleaders.com/) survey with a **single question**: 
 
 > What leadership challenges do you currently face?
 
 #### Call for mentors
  **When:** Sunday evening
+ 
  **What:**  Each **builder receives** [Typeform](http://buildersleaders.com/) survey with a **list of challenges** they can sign-up for as a mentor.
 
 #### Call for mentors
  **When:** Monday evening
+ 
  **What:**  All **challenges paired with mentors** are converted into scheduled [Zoom](https://zoom.us) **sessions**. 
 
 In this phase a **challenge PR** in the collaborative [buildersleaders/playbook](https://github.com/buildersleaders/playbook) is opened where **challenge context** and **takeaways** will be documented, reviewed, approved and merged. 
 
 #### Mentoring sessions
 **When:** Tuesday - Friday
+
 **What:** Builder and mentor meets over Zoom to **discuss the challenge**. 
 
 **Challenge context** is documented in the **opened PR**.  
 
 #### Call for feedback
 **When:** Friday evening
+
 **What:** Each **builder and leader** participating in the mentoring sessions receives [Typeform](http://buildersleaders.com/) survey with a **feedback notes**.
 
 #### Takeaway documentation
 **When:** Saturday - Wednesday
+
 **What:** Each **builder** participating in the mentoring session is asked to **document the takeaways** in the challenge PR. 
 
 PR needs to be **approved by the mentor and curator** before merging to `master`.
